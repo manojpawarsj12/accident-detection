@@ -14,6 +14,17 @@ Our main goal of this project is to use deep learning and computer vision to det
 2. To design a deep convolutional neural networks model for this project.
 
 3. Limited hardware resorces like GPU's.
+# Team Members
+1: Manoj Pawar Sj [GITHUB](https://github.com/manojpawarsj12)
+
+2: Manjunath Inti [Github](https://github.com/intimanjunath)
+
+3.Bharat Kaushik [Github](https://github.com/bharatkaushik9194)
+
+4.DIkshita Basu [github](https://github.com/hiyabose)
+
+5.Bikas Singha [Github](https://github.com/bikas17080)
+
 
 
 # Model Overview
