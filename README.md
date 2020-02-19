@@ -23,7 +23,7 @@ Our main goal of this project is to use deep learning and computer vision to det
 
 4.DIkshita Basu [Github](https://github.com/hiyabose) [LinkedLn](https://www.linkedin.com/in/dikshita-basu-a74ab2173)
 
-5.Bikas Singha [Github](https://github.com/bikas17080) [LinkedLn](https://www.linkedin.com/in/bikash-singha-28733518a)
+5.Bikash Singha [Github](https://github.com/bikas17080) [LinkedLn](https://www.linkedin.com/in/bikash-singha-28733518a)
 
 6.Rema Rose Toppo [Github](https://github.com/ReemaRoseToppo) [LinkedLn](https://www.linkedin.com/in/udacitystudentreema-rose-toppo)
 
