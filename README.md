@@ -15,13 +15,13 @@ Our main goal of this project is to use deep learning and computer vision to det
 
 3. Limited hardware resorces like GPU's.
 # Team Members
-1: Manoj Pawar Sj [GITHUB](https://github.com/manojpawarsj12) [LinedLn](https://www.linkedin.com/in/manojpawarsj)
+1: Manoj Pawar Sj [Github](https://github.com/manojpawarsj12) [LinedLn](https://www.linkedin.com/in/manojpawarsj)
 
 2: Manjunath Inti [Github](https://github.com/intimanjunath) [LinedLn](https://www.linkedin.com/in/manjunath-i-7b7bb3190)
 
 3.Bharat Kaushik [Github](https://github.com/bharatkaushik9194) [LinedLn](https://www.linkedin.com/in/bharat-kaushik-562887191)
 
-4.DIkshita Basu [github](https://github.com/hiyabose) [LinkedLn](https://www.linkedin.com/in/dikshita-basu-a74ab2173)
+4.DIkshita Basu [Github](https://github.com/hiyabose) [LinkedLn](https://www.linkedin.com/in/dikshita-basu-a74ab2173)
 
 5.Bikas Singha [Github](https://github.com/bikas17080) [LinkedLn](https://www.linkedin.com/in/bikash-singha-28733518a)
 
